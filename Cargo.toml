@@ -1,0 +1,10 @@
+[package]
+name = "rust_neural_network"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15.3"
+ndarray-rand = "0.14.0"
+rand = "0.8.4"
+csv = "1.1.6"
